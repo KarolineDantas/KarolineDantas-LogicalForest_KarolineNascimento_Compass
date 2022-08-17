@@ -8,7 +8,7 @@ Serve para registrar quaisquer alterações feitas em cima de um código, armaze
 <h2> O que é o GitHub? </h2>
 É uma plataforma totalmente online onde você pode criar repositórios e hospedar seus projetos.
 
-<h2> Comandos que aprendi: </h2>
+<h2> Comandos: </h2>
 
 - git init para iniciar um repositório;
 
