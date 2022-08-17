@@ -36,7 +36,7 @@ Serve para registrar quaisquer alterações feitas em cima de um código, armaze
 
 - git push para enviar alterações ao repositório remoto;
 
-- git pull para atualizar o repositório local de acordo com o remoto.]
+- git pull para atualizar o repositório local de acordo com o remoto.
 
 
 <h2> Exercício: </h2> https://github.com/KarolineDantas/KarolineDantas-LogicalForest_KarolineNascimento_Compass.git
