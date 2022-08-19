@@ -1,3 +1,5 @@
+Data: 18/08/22
+
 <h2> Variáveis </h2>
 
     let idade = 22;
