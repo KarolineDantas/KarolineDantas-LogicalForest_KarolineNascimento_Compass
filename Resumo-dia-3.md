@@ -72,7 +72,7 @@ Conjunto de dado que pode ser acessado por um índice
     let resultado = multiplicarPorDois(5);
     console.log(resultado); 
 
-<h2>Operadores </h2>
+<h3>Operadores </h3>
 
     let salario = 100;
     console.log(salario + salario);
