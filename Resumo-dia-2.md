@@ -1,9 +1,6 @@
 Data: 17/08/22
-develop
-<h1> Conteúdo da aula: Git e GitHub </h1>
 
 <h1> Conteúdo da aula: Git e GitHub </h1>
-main
 
 <h2> Ciclo de criação: </h2>
 
@@ -15,14 +12,8 @@ main
 - 6º passo - Inserir o comando git remote add origin <url> para criar uma conexão entre o repositório local e o do GitHub;
 - 7º passo - Inserir o comando git push para enviar os dados e arquivos do repositório local para o repositório remoto (GitHub).
 
-
-develop
-<h2> Ciclo de atualização: </h2>
-
-
 <h2> Ciclo de atualização: </h2>
  
-main
 - 1º passo - Fazer as modificações no documento escolhido;
 - 2º passo - Aparecerá uma mensagem informando o que foi modificado e/ou adicionado;
 - 3º passo - Inserir o comando git add <nome_do_arquivo> ou git add . para enviar todos de uma vez;
