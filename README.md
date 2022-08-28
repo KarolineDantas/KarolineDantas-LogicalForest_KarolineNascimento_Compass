@@ -31,11 +31,15 @@ Olá! Este projeto foi criado para avaliação da Compass.uol. No programa de es
 
 - Será usado principalmente dois arquivos do projeto: 
   
-  A) O documento "calculadora.spec.js", onde você irá realizar os cálculos e validar os resultados através dos testes;
+  A) O documento "calculadora.spec.js", onde você irá realizar os cálculos e validar os resultados através dos testes. 
+  - No exemplo abaixo, a primeira linha "describe..." informa o tipo de cálculo que será realizado;
+  - Na segunda linha "it..." está escrito o objetivo do teste;
+  - Na terceira linha "let..." você irá inserir os valores para que o teste seja realizado;
+  - Na quarta linha "expect..." será informado o que se espera do teste, ou seja, espera-se que a soma entre 10 + 5 seja igual a 15.
   
   ![image](https://user-images.githubusercontent.com/107884724/187078268-144e3790-4cca-47e3-9a11-ec6e2f5cac1f.png)
 
-  B) E o documento "calculadora.js" que contém a fórmula para cada tipo de cálculo.
+  B) O segundo documento mais utilizado será "calculadora.js" que contém a fórmula para cada tipo de cálculo. 
 
   ![image](https://user-images.githubusercontent.com/107884724/187078278-4011d6e3-fc19-4c81-86a8-3f993c831fce.png)
 
