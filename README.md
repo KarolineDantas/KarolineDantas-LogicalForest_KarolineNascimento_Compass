@@ -10,7 +10,11 @@
 * [Licença](#licença)
 
 ## Sobre o projeto
-Olá! Este projeto foi criado para avaliação da Compass.uol. No programa de estágio da empresa, o principal desafio da Sprint 4 é criar uma calculadora na qual é possível validar os resultados através de testes. Em outras palavras, será utilizado o TDD (Desenvolvimento Orientado por Testes) com Mocha e Chai. Neste repositório você encontrará duas branches:
+Olá! Este projeto foi criado para avaliação da Compass.uol. No programa de estágio da empresa, o principal desafio da Sprint 4 é criar uma calculadora na qual é possível validar os resultados através de testes. Em outras palavras, será utilizado o TDD (Desenvolvimento Orientado por Testes) com Mocha e Chai.
+
+Com a calculadora elaborada é possível fazer cálculo de soma, subtração, divisão, multiplicação, porcentagem, conversão de número decimal para binário, octal e hexademical; bem como a conversão de número binário para decimal, octal e hexadecimal.
+
+Neste repositório você encontrará duas branches:
 - Main, na qual está inserido o principal desafio da Sprint 4 do programa de bolsas de estágio da Compass;
 - Develop, que contém os resumos e os exercícios dos conteúdos apresentados.
 
