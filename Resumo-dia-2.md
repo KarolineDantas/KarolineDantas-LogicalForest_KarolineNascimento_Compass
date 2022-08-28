@@ -1,5 +1,6 @@
 Data: 17/08/22
-<h1> Conteúdo da aula: Git e GitHub </h2>
+
+<h1> Conteúdo da aula: Git e GitHub </h1>
 
 <h2> Ciclo de criação: </h2>
 
@@ -10,7 +11,6 @@ Data: 17/08/22
 - 5º passo - Inserir o comando git commit -m "mensagem" para para passar o arquivo presente na staging área para o repository;
 - 6º passo - Inserir o comando git remote add origin <url> para criar uma conexão entre o repositório local e o do GitHub;
 - 7º passo - Inserir o comando git push para enviar os dados e arquivos do repositório local para o repositório remoto (GitHub).
-
 
 <h2> Ciclo de atualização: </h2>
  
